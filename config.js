@@ -1,5 +1,5 @@
 const config = {
-    MONGO_URI = "mongodb+srv://dhruv:dhruv@uploader.9dvp6.mongodb.net/Uploader?retryWrites=true&w=majority"
+    MONGO_URI = "mongodb+srv://harsha:reddy@cluster0.22slh.mongodb.net/DeakinSocial"
 }
 
 module.exports = config;
